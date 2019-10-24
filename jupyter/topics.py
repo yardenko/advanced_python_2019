@@ -35,18 +35,21 @@ df_details = pd.DataFrame(
         {'day': 2, 'Topic': 'Collections module'},
         {'day': 2, 'Topic': 'Exercises 1 & 2'},
         # ----------------------------
+        {'day': 3, 'Topic': 'Discussion of Excercises 1 & 2'},
         {'day': 3, 'Topic': 'Basic plotting with plotly'},
-        {'day': 3, 'Topic': "String format"},
-        {'day': 3, 'Topic': 'dicts'},
-        {'day': 3, 'Topic': 'itertools'},
-        {'day': 3, 'Topic': 'data flow'},
-        {'day': 3, 'Topic': 'Exercises 3 & 4'},
+        {'day': 3, 'Topic': 'Exercises 3'},
         # -----------------------------
-        {'day': 3, 'Topic': "Basic Python package"},
-        {'day': 3, 'Topic': "Test Driven development"},
-        {'day': 3, 'Topic': "Auto documentation with Sphinx"},
+        {'day': 4, 'Topic': 'Discussion of Excercises 3'},
+        {'day': 4, 'Topic': "String format"},
+        {'day': 4, 'Topic': 'dicts'},
+        {'day': 4, 'Topic': 'itertools'},
         # -----------------------------
-        {'day': 4, 'Topic': "OOP"},
+        {'day': 5, 'Topic': "OOP"},
+        # {'day': 3, 'Topic': 'data flow'},
+        {'day': 6, 'Topic': "Basic Python package"},
+        {'day': 6, 'Topic': "Test Driven development"},
+        {'day': 6, 'Topic': "Auto documentation with Sphinx"},
+        # -----------------------------
     ]
 )
 
